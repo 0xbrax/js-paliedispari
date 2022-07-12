@@ -11,11 +11,11 @@ ALTRIMENTI
 
 - PROGRAMMA 2
 
-Chiedere di scegliere pari o dospari
+Chiedere di scegliere pari o dispari
 Chiedere di scegliere un numero da 1 a 5
 Generare un numero random per il computer da 1 a 5
 Sommare i due numeri
-SE la somma è pari
+SE la somma è pari o dispari e è uguale a quello che hai scelto
     allora hai vinto
 ALTRIMENTI
     hai perso
